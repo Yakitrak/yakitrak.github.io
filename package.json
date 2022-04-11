@@ -1,0 +1,26 @@
+{
+  "name": "yakitrak.github.io",
+  "version": "1.0.0",
+  "description": "Kartikay's Resume",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:html": "resume export --resume docs/resume.json --theme jsonresume-theme-caffeine-tweaked --format html docs/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yakitrak/yakitrak.github.io.git"
+  },
+  "author": "kartikayjainwal@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yakitrak/yakitrak.github.io/issues"
+  },
+  "homepage": "https://github.com/Yakitrak/yakitrak.github.io#readme",
+  "dependencies": {
+    "jsonresume-theme-caffeine-tweaked": "^1.0.4"
+  }
+}
