@@ -21,6 +21,10 @@ Now you may be wondering why not use the hosted solution already provided by JSO
 ## Build
 
 ```
+nvm use 12.0.0 
+```
+
+```
 resume export --resume docs/resume.json --theme jsonresume-theme-caffeine-tweaked --format html docs/index.html
 ```
 

@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build:html": "resume export --resume docs/resume.json --theme jsonresume-theme-caffeine-tweaked --format html docs/index.html"
+    "build:html": "resume export --resume ./docs/resume.json --theme jsonresume-theme-caffeine-tweaked --format html ./docs/index.html"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Yakitrak/yakitrak.github.io#readme",
   "dependencies": {
-    "jsonresume-theme-caffeine-tweaked": "^1.0.4"
+    "jsonresume-theme-caffeine-tweaked": "^1.0.4",
+    "resume-cli": "^3.0.7"
   }
 }

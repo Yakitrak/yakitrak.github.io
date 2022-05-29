@@ -38,7 +38,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Developed features on full stack web applications using TypeScript, React, Redux, NodeJS. Extensively tested using react-testing-library, Jest, Cypress, Cucumber etc. Took responsibility for deployments on AWS.",
+        "Developed features on full stack web applications using TypeScript with React, Redux frontend and NodeJS, ExpressJS, and GraphQL backend. Extensively tested using react-testing-library, Jest, Cypress, Cucumber etc. Took responsibility for deployments on AWS.",
         "Maintained projects and supported on incidents raised for applications ensuring any issues are fixed and the corresponding teams are updated.",
         "Responsible for keeping the team aligned with meeting, sprint and support management responsibilities. Also supported junior members of the team and involved with interview process.",
         "Volunteered as Wellbeing champion to promote and disseminate information to colleagues regarding maintaining and improving wellbeing. This also involved providing listening ear for team members and signposting when required."
@@ -122,10 +122,10 @@
       "keywords": [
         "JavaScript | TypeScript",
         "React | Redux",
-        "Node | Express | API",
+        "Node | Express | GraphQL",
         "Jest | Cucumber | Cypress",
         "HTML5 | CSS3 | SCSS",
-        "MongoDB | PostGreSQL",
+      "MongoDB | PostGreSQL | Kafka",
         "Docker | Github | AWS",
         "Java | C# | Python"
       ]
